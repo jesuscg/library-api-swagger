@@ -1,6 +1,6 @@
 # Library REST API with Swagger docs
 
-[![CircleCI](https://circleci.com/gh/jesuscg/library-api-swagger/tree/master.svg?style=shield)](https://circleci.com/gh/jesuscg/library-api-swagger/tree/master) [![Coverage Status](https://coveralls.io/repos/github/jesuscg/library-api-swagger/badge.svg?branch=master)](https://coveralls.io/github/jesuscg/library-api-swagger?branch=master)
+[![CircleCI](https://circleci.com/gh/jesuscg/library-api-swagger/tree/master.svg?style=shield)](https://circleci.com/gh/jesuscg/library-api-swagger/tree/master) [![Coverage Status](https://coveralls.io/repos/github/jesuscg/library-api-swagger/badge.svg?branch=master)](https://coveralls.io/github/jesuscg/library-api-swagger?branch=master) [![Code Health](https://landscape.io/github/jesuscg/library-api-swagger/master/landscape.svg?style=flat)](https://landscape.io/github/jesuscg/library-api-swagger/master)
 
 
 
